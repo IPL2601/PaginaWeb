@@ -1,0 +1,11 @@
+Esta página tiene 4 CSSs distintos los cuales cada uno sirve para un apartado. 
+El primero es el de la página de inicio el cual es similar a otros el cual tiene un header donde se puede navegar a distintas páginas como:
+Novedades o al catálogo. Este CSS tiene dos columnas, la de la izquierda y la de la derecha las cuales se dividen con Divs para poder ordenar el contenido.
+
+El segundo CSS es el de Novedades que es similar al de inicio, no tiene muchas cosas diferentes, lo único que contiene noticias sobre canciones que recién sacan.
+
+El tercero es el del catalogo, el cual he utilizado un grid-out para colocar los cantantes en distintas posiciones.
+
+Y por último tenemos el CSS de los cantantes los cuales todos siguen la misma estructura.
+
+Para poder hacer esta página web he utilizado la plantilla de w3schools y la he ido modificando.
